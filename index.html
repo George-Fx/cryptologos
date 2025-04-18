@@ -8,7 +8,31 @@
       sizes="512x512"
       href="favicon/favicon.png"
     />
-    <title></title>
+    <title>Load JSON Data</title>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        fetch('api/data.json')
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error(
+                'Network response was not ok ' + response.statusText,
+              );
+            }
+            return response.json();
+          })
+          .then((data) => {
+            console.log(data); // Здесь вы можете обработать данные
+          })
+          .catch((error) => {
+            console.error(
+              'There was a problem with the fetch operation:',
+              error,
+            );
+          });
+      });
+    </script>
   </head>
-  <body></body>
+  <body>
+    <h1>JSON Data Example</h1>
+  </body>
 </html>
