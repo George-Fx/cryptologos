@@ -19,10 +19,6 @@
     {
       "id": "usd-coin",
       "banner": "https://cryptologos-data.vercel.app/assets/banners/usd-coin.png"
-    },
-    {
-      "id": "wink",
-      "banner": "https://cryptologos-data.vercel.app/assets/banners/wink.png"
     }
   ]
 }
