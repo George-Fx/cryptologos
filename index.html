@@ -2,48 +2,29 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="512x512"
-      href="favicon/favicon.png"
-    />
-    <title>JSON Data</title>
+    <title>JSON Viewer</title>
     <script>
       document.addEventListener('DOMContentLoaded', () => {
         fetch('api/data.json')
-          .then((response) => {
-            if (!response.ok) {
-              throw new Error(
-                'Network response was not ok ' + response.statusText,
-              );
-            }
-            return response.json();
-          })
+          .then((response) => response.json())
           .then((data) => {
-            console.log(JSON.stringify(data, null, 2)); // Вывод JSON в консоль
-            const jsonContainer = document.getElementById('json-container');
-            jsonContainer.textContent = JSON.stringify(data, null, 2); // Отображение JSON на странице
+            document.body.textContent = JSON.stringify(data, null, 2);
           })
           .catch((error) => {
-            console.error(
-              'There was a problem with the fetch operation:',
-              error,
-            );
+            console.error('Error loading JSON:', error);
           });
       });
     </script>
     <style>
-      pre {
+      body {
+        font-family: monospace;
+        white-space: pre;
         background-color: #f4f4f4;
-        padding: 10px;
-        border: 1px solid #ddd;
-        overflow-x: auto;
+        padding: 20px;
       }
     </style>
   </head>
   <body>
-    <h1>JSON Data</h1>
-    <pre id="json-container"></pre>
+    Loading JSON...
   </body>
 </html>
