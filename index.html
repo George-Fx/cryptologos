@@ -21,7 +21,22 @@
             return response.json();
           })
           .then((data) => {
-            console.log(data); // Здесь вы можете обработать данные
+            const container = document.getElementById('logos-container');
+            data.logos.forEach((logo) => {
+              const logoDiv = document.createElement('div');
+              logoDiv.className = 'logo-item';
+
+              const img = document.createElement('img');
+              img.src = logo.banner;
+              img.alt = logo.id;
+
+              const title = document.createElement('p');
+              title.textContent = logo.id;
+
+              logoDiv.appendChild(img);
+              logoDiv.appendChild(title);
+              container.appendChild(logoDiv);
+            });
           })
           .catch((error) => {
             console.error(
@@ -31,8 +46,19 @@
           });
       });
     </script>
+    <style>
+      .logo-item {
+        margin: 10px;
+        text-align: center;
+      }
+      .logo-item img {
+        max-width: 200px;
+        height: auto;
+      }
+    </style>
   </head>
   <body>
     <h1>JSON Data Example</h1>
+    <div id="logos-container"></div>
   </body>
 </html>
