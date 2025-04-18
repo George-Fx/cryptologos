@@ -2,23 +2,23 @@
   "logos": [
     {
       "id": "apenft",
-      "banner": "https://cryptologos-data.vercel.app/assets/apenft.png"
+      "logo": "https://cryptologos-data.vercel.app/assets/apenft.png"
     },
     {
       "id": "bittorrent",
-      "banner": "https://cryptologos-data.vercel.app/assets/bittorrent.png"
+      "logo": "https://cryptologos-data.vercel.app/assets/bittorrent.png"
     },
     {
       "id": "just",
-      "banner": "https://cryptologos-data.vercel.app/assets/just.png"
+      "logo": "https://cryptologos-data.vercel.app/assets/just.png"
     },
     {
       "id": "tether",
-      "banner": "https://cryptologos-data.vercel.app/assets/tether.png"
+      "logo": "https://cryptologos-data.vercel.app/assets/tether.png"
     },
     {
       "id": "usd-coin",
-      "banner": "https://cryptologos-data.vercel.app/assets/usd-coin.png"
+      "logo": "https://cryptologos-data.vercel.app/assets/usd-coin.png"
     }
   ]
 }
