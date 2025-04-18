@@ -21,22 +21,9 @@
             return response.json();
           })
           .then((data) => {
-            const container = document.getElementById('logos-container');
-            data.logos.forEach((logo) => {
-              const logoDiv = document.createElement('div');
-              logoDiv.className = 'logo-item';
-
-              const img = document.createElement('img');
-              img.src = logo.logo;
-              img.alt = logo.id;
-
-              const title = document.createElement('p');
-              title.textContent = logo.id;
-
-              logoDiv.appendChild(img);
-              logoDiv.appendChild(title);
-              container.appendChild(logoDiv);
-            });
+            console.log(JSON.stringify(data, null, 2)); // Вывод JSON в консоль
+            const jsonContainer = document.getElementById('json-container');
+            jsonContainer.textContent = JSON.stringify(data, null, 2); // Отображение JSON на странице
           })
           .catch((error) => {
             console.error(
@@ -47,18 +34,16 @@
       });
     </script>
     <style>
-      .logo-item {
-        margin: 10px;
-        text-align: center;
-      }
-      .logo-item img {
-        max-width: 40px;
-        height: auto;
+      pre {
+        background-color: #f4f4f4;
+        padding: 10px;
+        border: 1px solid #ddd;
+        overflow-x: auto;
       }
     </style>
   </head>
   <body>
     <h1>JSON Data</h1>
-    <div id="logos-container"></div>
+    <pre id="json-container"></pre>
   </body>
 </html>
