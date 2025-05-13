@@ -6,6 +6,7 @@
       "name": "4TB Coin",
       "logo": "https://cryptologos-data.vercel.app/assets/4tb-coin.png",
       "contract": "TQgcDvhr6c1EUDnFxiAmuYpBewT3uJSnHF",
+      "decimals": 4,
       "price": 0,
       "balance": 0
     },
@@ -15,6 +16,7 @@
       "name": "APENFT",
       "logo": "https://cryptologos-data.vercel.app/assets/apenft.png",
       "contract": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -24,6 +26,7 @@
       "name": "AstraZion",
       "logo": "https://cryptologos-data.vercel.app/assets/astrazion.png",
       "contract": "TD74cpU4JfMKhuWVs6uKYXKUy8nvC6EQ95",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -33,6 +36,7 @@
       "name": "B1COIN",
       "logo": "https://cryptologos-data.vercel.app/assets/b1coin.png",
       "contract": "TF7ixydn7nfCgj9wQj3fRdKRAvsZ8egHcx",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -42,6 +46,7 @@
       "name": "Bemchain",
       "logo": "https://cryptologos-data.vercel.app/assets/bemchain.png",
       "contract": "TAoA331n3iKDkR62kAZ4H2n3vNL7y3d8x9",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -51,6 +56,7 @@
       "name": "Biaoqing TRON",
       "logo": "https://cryptologos-data.vercel.app/assets/biaoqing-tron.jpg",
       "contract": "TR95WcjR78Y4puyv8BkbFuxaf4WcvmmPpd",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -60,6 +66,7 @@
       "name": "Bitcoin TRC20",
       "logo": "https://cryptologos-data.vercel.app/assets/bitcoin-trc20.png",
       "contract": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
+      "decimals": 8,
       "price": 0,
       "balance": 0
     },
@@ -69,6 +76,7 @@
       "name": "BitTorrent",
       "logo": "https://cryptologos-data.vercel.app/assets/bittorrent.png",
       "contract": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -78,6 +86,7 @@
       "name": "BitTorrent [OLD]",
       "logo": "https://cryptologos-data.vercel.app/assets/bittorrent-old.png",
       "contract": "1002000",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -87,6 +96,7 @@
       "name": "Black Phoenix",
       "logo": "https://cryptologos-data.vercel.app/assets/black-phoenix.jpg",
       "contract": "TXBcx59eDVndV5upFQnTR2xdvqFd5reXET",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -96,6 +106,7 @@
       "name": "BLAKE",
       "logo": "https://cryptologos-data.vercel.app/assets/blake.jpg",
       "contract": "TXtu3Ke9mJQtPtAQxmoTbzu3N4Qx4XP9Y2",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -105,6 +116,7 @@
       "name": "BMS Coin",
       "logo": "https://cryptologos-data.vercel.app/assets/bms-coin.png",
       "contract": "TYQ2rbuRmcPuTQVWnx71BMsqxj46rteweH",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -114,6 +126,7 @@
       "name": "BRIHLO",
       "logo": "https://cryptologos-data.vercel.app/assets/brihlo.png",
       "contract": "THkzgVF6wE9wUacsetbokJUophZtaLHRLJ",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -123,6 +136,7 @@
       "name": "Caprisun",
       "logo": "https://cryptologos-data.vercel.app/assets/caprisun.jpg",
       "contract": "TKmrM2UUNcTsC5UjiujDHwzRAmzzTJDcYd",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -132,6 +146,7 @@
       "name": "CashBackPro",
       "logo": "https://cryptologos-data.vercel.app/assets/cashbackpro.png",
       "contract": "TL7RJPC7zqpj9B2F4RRc4mk4YpzuVrd4Ar",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -141,6 +156,7 @@
       "name": "CLECOIN",
       "logo": "https://cryptologos-data.vercel.app/assets/clecoin.jpg",
       "contract": "TRPzBzxBBewcQkN5P687pDw24F1FPFqVtt",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -150,6 +166,7 @@
       "name": "Coconut Chicken",
       "logo": "https://cryptologos-data.vercel.app/assets/coconut-chicken.png",
       "contract": "TRv9ipj4kKAZqQggQ7ceJpe5ERD1ZShpgs",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -159,6 +176,7 @@
       "name": "Companion Pet Coin",
       "logo": "https://cryptologos-data.vercel.app/assets/coconut-chicken.jpg",
       "contract": "TKTtVPdJDKpEqEf8ny8p2BcSyUjGhoUeJN",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -168,6 +186,7 @@
       "name": "CORE MultiChain",
       "logo": "https://cryptologos-data.vercel.app/assets/core.png",
       "contract": "TKg1nGjtWYDcf1HNTSNQtwGwNAuTxd1X2A",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -177,6 +196,7 @@
       "name": "Cornatto",
       "logo": "https://cryptologos-data.vercel.app/assets/cornatto.png",
       "contract": "TL5BvThAMg9QBCvbgXu7HwHh8HqGdAq4DD",
+      "decimals": 10,
       "price": 0,
       "balance": 0
     },
@@ -186,6 +206,7 @@
       "name": "CrossWallet",
       "logo": "https://cryptologos-data.vercel.app/assets/crosswallet.png",
       "contract": "TY2Ge1YYphoAatwaBxa1zYfJVa8CqNyL6B",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -195,6 +216,7 @@
       "name": "Crypto KIT",
       "logo": "https://cryptologos-data.vercel.app/assets/crypto-kit.jpg",
       "contract": "TQVkTUQPKWdr2JtTy9X8ZxYUMuwBQap3Y7",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -204,6 +226,7 @@
       "name": "Crypto Whale",
       "logo": "https://cryptologos-data.vercel.app/assets/crypto-whale.png",
       "contract": "TWP6GgtstiuYbpygSFcZLzJQrj9eDVQcq2",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -213,6 +236,7 @@
       "name": "Cyber Dog",
       "logo": "https://cryptologos-data.vercel.app/assets/cyber-dog.jpeg",
       "contract": "TVXmroHbJsJ6rVm3wGn2G9723yz3Kbqp9x",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -222,6 +246,7 @@
       "name": "CyberFM",
       "logo": "https://cryptologos-data.vercel.app/assets/cyberfm.png",
       "contract": "TZ5jA9F5zGRgi9qk9ATMu6D7wyEpnxQGJh",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -231,6 +256,7 @@
       "name": "Degree Crypto",
       "logo": "https://cryptologos-data.vercel.app/assets/degree-crypto-token.png",
       "contract": "TRwptGFfX3fuffAMbWDDLJZAZFmP6bGfqL",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -240,6 +266,7 @@
       "name": "Dragon Sun",
       "logo": "https://cryptologos-data.vercel.app/assets/dragon-sun.png",
       "contract": "TV5yB8f4AdoAfVVUdkytyZnX5e7SeGAZr2",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -249,6 +276,7 @@
       "name": "Fimarkcoin.com",
       "logo": "https://cryptologos-data.vercel.app/assets/fimarkcoin-com.png",
       "contract": "TF8EjxT89LmcUNKV3fq55oeD5V44V7tjo2",
+      "decimals": 8,
       "price": 0,
       "balance": 0
     },
@@ -258,6 +286,7 @@
       "name": "FINXFLO",
       "logo": "https://cryptologos-data.vercel.app/assets/finxflo.png",
       "contract": "TSNr126nQ8HKfXREqrqkBnxoQNHS5qJLg5",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -267,6 +296,7 @@
       "name": "FoFar",
       "logo": "https://cryptologos-data.vercel.app/assets/fofar-2.jpg",
       "contract": "TUFonyWZ4Tza5MzgDj6g2u5rfdGoRVYG7g",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -276,6 +306,7 @@
       "name": "FTX Users' Debt",
       "logo": "https://cryptologos-data.vercel.app/assets/ftx-users-debt.jpg",
       "contract": "TQWQTZ7LzyttfnHQyfLUkKUs8eZZepgXiQ",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -285,6 +316,7 @@
       "name": "Global Commercial Business",
       "logo": "https://cryptologos-data.vercel.app/assets/global-commercial-business.png",
       "contract": "TPN3AXU6GH9abi7xKchewq4jTuSFLGjq5i",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -294,6 +326,7 @@
       "name": "GOLCOIN",
       "logo": "https://cryptologos-data.vercel.app/assets/golcoin.png",
       "contract": "TDXyBerEqKHrGLEQFH9S3prXHPQiqaDsTA",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -303,6 +336,7 @@
       "name": "Guarantee",
       "logo": "https://cryptologos-data.vercel.app/assets/guarantee.png",
       "contract": "TQX4NJaSspcjXWUDHMgjcejRZ7k1VojNLz",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -312,6 +346,7 @@
       "name": "HAMMY",
       "logo": "https://cryptologos-data.vercel.app/assets/hammy.png",
       "contract": "TEBdrpWiPVSU3cmR96wCVYgsxb9fwwJSZi",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -321,6 +356,7 @@
       "name": "HTX DAO",
       "logo": "https://cryptologos-data.vercel.app/assets/htx-dao.png",
       "contract": "TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -330,6 +366,7 @@
       "name": "Invest Zone",
       "logo": "https://cryptologos-data.vercel.app/assets/invest-zone.png",
       "contract": "TSig7sWzEL2K83mkJMQtbyPpiVSbR6pZnb",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -339,6 +376,7 @@
       "name": "JUST",
       "logo": "https://cryptologos-data.vercel.app/assets/just.png",
       "contract": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -348,6 +386,7 @@
       "name": "JustMoney",
       "logo": "https://cryptologos-data.vercel.app/assets/justmoney-2.png",
       "contract": "TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR",
+      "decimals": 8,
       "price": 0,
       "balance": 0
     },
@@ -357,6 +396,7 @@
       "name": "JUST Stablecoin",
       "logo": "https://cryptologos-data.vercel.app/assets/just-stablecoin.png",
       "contract": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -366,6 +406,7 @@
       "name": "Darkness",
       "logo": "https://cryptologos-data.vercel.app/assets/knight.png",
       "contract": "THvqUNvSRvV1DRJ9wuugBVKeq3rFxpxJej",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -375,6 +416,7 @@
       "name": "Kyrrex",
       "logo": "https://cryptologos-data.vercel.app/assets/kyrrex.jpg",
       "contract": "THS2ZuQowumzFPD1z3wchB1PijWMggUgmA",
+      "decimals": 4,
       "price": 0,
       "balance": 0
     },
@@ -384,6 +426,7 @@
       "name": "LUMI Credits",
       "logo": "https://cryptologos-data.vercel.app/assets/lumi-credits.png",
       "contract": "TDBNKiYQ8yfJtT5MDP3byu7f1npJuG2DBN",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -393,6 +436,7 @@
       "name": "Madhouse",
       "logo": "https://cryptologos-data.vercel.app/assets/madhouse.png",
       "contract": "TBoupmmqSwULKpa3jQJZuWNPDpbzfT2Grh",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -402,6 +446,7 @@
       "name": "Meow",
       "logo": "https://cryptologos-data.vercel.app/assets/meow-2.png",
       "contract": "TR1iXU8Sp7oUYHXWiddsBervJzSbdibMFZ",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -411,6 +456,7 @@
       "name": "MEW WOOF DAO",
       "logo": "https://cryptologos-data.vercel.app/assets/mew-woof-dao.png",
       "contract": "TEfg1LnM3yApCjAgax35wDg6SRpmZFuQS3",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -420,6 +466,7 @@
       "name": "MUNCAT",
       "logo": "https://cryptologos-data.vercel.app/assets/muncat.png",
       "contract": "TE2T2vLnEQT1XW647EAQAHWqd6NZL1hweR",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -429,6 +476,7 @@
       "name": "Mynth",
       "logo": "https://cryptologos-data.vercel.app/assets/mynth.png",
       "contract": "TNzfB1nvRPusCn5UhQLxUbZaX7DFuWkxR4",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -438,15 +486,7 @@
       "name": "Neiro on Tron",
       "logo": "https://cryptologos-data.vercel.app/assets/neiro-on-tron.png",
       "contract": "TCGPc27oyS2x7S5pex7ssyZxZ2edPWonk2",
-      "price": 0,
-      "balance": 0
-    },
-    {
-      "id": "nforbanana",
-      "symbol": "n",
-      "name": "Banana",
-      "logo": "https://cryptologos-data.vercel.app/assets/nforbanana.jpg",
-      "contract": "TBBThLgHtUhGuT9DJ1rrzXDQ6j2XSP2Dq5",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -456,6 +496,7 @@
       "name": "norT",
       "logo": "https://cryptologos-data.vercel.app/assets/nort.jpeg",
       "contract": "TLMgXeSPVQsBXQjUf6QXn575h8SEK782oV",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -465,6 +506,7 @@
       "name": "OSK",
       "logo": "https://cryptologos-data.vercel.app/assets/osk.jpg",
       "contract": "TDk91SWz2GvwfZwMTGX21d4ngUUH8YZZAv",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -474,6 +516,7 @@
       "name": "Pallapay",
       "logo": "https://cryptologos-data.vercel.app/assets/pallapay.png",
       "contract": "TCfLxS9xHxH8auBL3T8pf3NFTZhsxy4Ncg",
+      "decimals": 8,
       "price": 0,
       "balance": 0
     },
@@ -483,6 +526,7 @@
       "name": "PandaFi",
       "logo": "https://cryptologos-data.vercel.app/assets/pandafi.png",
       "contract": "TJ9mxWPmQSJswqMakEehFWcAntg73odiAq",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -492,6 +536,7 @@
       "name": "PAYNET",
       "logo": "https://cryptologos-data.vercel.app/assets/paynet-coin.jpg",
       "contract": "TQYuR8FpmhMJK3ZpfoTgERjaZRywqMnFAH",
+      "decimals": 8,
       "price": 0,
       "balance": 0
     },
@@ -501,6 +546,7 @@
       "name": "Pearl Finance",
       "logo": "https://cryptologos-data.vercel.app/assets/pearl-finance.png",
       "contract": "TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -510,6 +556,7 @@
       "name": "Pino TRX",
       "logo": "https://cryptologos-data.vercel.app/assets/pino-trx.jpeg",
       "contract": "TAbkLGngV1k8bNb5hnqW7oX46FG4Dbs5e2",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -519,6 +566,7 @@
       "name": "PRivaCY Coin",
       "logo": "https://cryptologos-data.vercel.app/assets/prcy-coin.png",
       "contract": "TYV5eu6UgSPtxVLkPD9YfxmUEcXhum35yS",
+      "decimals": 8,
       "price": 0,
       "balance": 0
     },
@@ -528,6 +576,7 @@
       "name": "Proof Of Liquidity",
       "logo": "https://cryptologos-data.vercel.app/assets/proof-of-liquidity.png",
       "contract": "TWcDDx1Q6QEoBrJi9qehtZnD4vcXXuVLer",
+      "decimals": 8,
       "price": 0,
       "balance": 0
     },
@@ -537,6 +586,7 @@
       "name": "Puss",
       "logo": "https://cryptologos-data.vercel.app/assets/puss.jpg",
       "contract": "TX5eXdf8458bZ77fk8xdvUgiQmC3L93iv7",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -546,6 +596,7 @@
       "name": "RealLink",
       "logo": "https://cryptologos-data.vercel.app/assets/reallink.jpg",
       "contract": "TGBfBt6Y2Dm3RHdNpZAdqywBsvfdysf834",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -555,6 +606,7 @@
       "name": "Revain",
       "logo": "https://cryptologos-data.vercel.app/assets/revain.png",
       "contract": "TD4bVgcwj3FRbmAo283HxNvqZvY7T3uD8k",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -564,6 +616,7 @@
       "name": "ROCK",
       "logo": "https://cryptologos-data.vercel.app/assets/rock-4.png",
       "contract": "TJvwMR3RjHc8jA9QwwjWGANrR3Y4scLSZm",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -573,6 +626,7 @@
       "name": "ROCK DAO",
       "logo": "https://cryptologos-data.vercel.app/assets/rock-dao.png",
       "contract": "TZ3c6bmoqVeq9YEEBMSNrBLq2rHJ1vR8Nc",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -582,6 +636,7 @@
       "name": "Satozhi",
       "logo": "https://cryptologos-data.vercel.app/assets/satozhi.jpg",
       "contract": "TYq22mVD6aQdvzYhNxVYtjmRBCQmmcp2EK",
+      "decimals": 8,
       "price": 0,
       "balance": 0
     },
@@ -591,6 +646,7 @@
       "name": "S.D.O.G.E on Tron",
       "logo": "https://cryptologos-data.vercel.app/assets/s-d-o-g-e-on-tron.png",
       "contract": "TBGa9VN3w3t6YyD4fwgN8cuFSauoUVTHMN",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -600,6 +656,7 @@
       "name": "Social Swap",
       "logo": "https://cryptologos-data.vercel.app/assets/socialswap-token.png",
       "contract": "TBLQs7LqUYAgzYirNtaiX3ixnCKnhrVVCe",
+      "decimals": 8,
       "price": 0,
       "balance": 0
     },
@@ -609,6 +666,7 @@
       "name": "Squid Game",
       "logo": "https://cryptologos-data.vercel.app/assets/squid-game.png",
       "contract": "TSjUeAj5y2p1QBX7353CKDAqHdb6gcpJhR",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -618,6 +676,7 @@
       "name": "Staked TRX",
       "logo": "https://cryptologos-data.vercel.app/assets/staked-trx.png",
       "contract": "TU3kjFuhtEo42tsCBtfYUAZxoqQ4yuSLQ5",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -627,15 +686,7 @@
       "name": "Staked USDT",
       "logo": "https://cryptologos-data.vercel.app/assets/staked-usdt.jpg",
       "contract": "TThzxNRLrW2Brp9DcTQU8i4Wd9udCWEdZ3",
-      "price": 0,
-      "balance": 0
-    },
-    {
-      "id": "stronghands-finance",
-      "symbol": "ishnd",
-      "name": "StrongHands Finance",
-      "logo": "https://cryptologos-data.vercel.app/assets/stronghands-finance.png",
-      "contract": "TV5MV8wjCY8xbJ6NfQSArP7xZRHHTw48No",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -645,6 +696,7 @@
       "name": "Sugar Boy",
       "logo": "https://cryptologos-data.vercel.app/assets/sugar-boy.png",
       "contract": "TQKQRxEDH2vhtxGB4obGeHwu7AqGDryU3C",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -654,6 +706,7 @@
       "name": "SUNBEANS",
       "logo": "https://cryptologos-data.vercel.app/assets/sunbeans.jpg",
       "contract": "TQCfza5xo7srwPsYvdpQgYbgQAUWcAcjSa",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -663,6 +716,7 @@
       "name": "Suncat",
       "logo": "https://cryptologos-data.vercel.app/assets/suncat.jpeg",
       "contract": "TAwAg9wtQzTMFsijnSFotJrpxhMm3AqW1d",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -672,6 +726,7 @@
       "name": "Sundog",
       "logo": "https://cryptologos-data.vercel.app/assets/sundog.png",
       "contract": "TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -681,6 +736,7 @@
       "name": "sunlion",
       "logo": "https://cryptologos-data.vercel.app/assets/sunlion.jpeg",
       "contract": "TBk4dXtfo6j3rxPc1VJDhA7BsVi2XHK1bi",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -690,6 +746,7 @@
       "name": "SUNNED",
       "logo": "https://cryptologos-data.vercel.app/assets/sunned.png",
       "contract": "THMpAfhJwJic2V9SbReQhwXLPuRGSLsj5q",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -699,6 +756,7 @@
       "name": "SunNeiro",
       "logo": "https://cryptologos-data.vercel.app/assets/sunneiro.png",
       "contract": "TNFsYemyso755pjPs19bfdEuDnchbDzqua",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -708,6 +766,7 @@
       "name": "sunpepe",
       "logo": "https://cryptologos-data.vercel.app/assets/sunpepe.png",
       "contract": "TAzpJHxxgJd8f5AKjzndEndH3S9pzNUM5W",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -717,6 +776,7 @@
       "name": "SUNPIG",
       "logo": "https://cryptologos-data.vercel.app/assets/sunpig.png",
       "contract": "TX4xgxs6ctAz8RFbpk4rPzBrULWHE7Siiq",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -726,6 +786,7 @@
       "name": "SunPumpTrading",
       "logo": "https://cryptologos-data.vercel.app/assets/sunpumptrading.jpg",
       "contract": "TN2tRjEMhgHSVKzj4ssy4gvHpXQNh5weSg",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -735,6 +796,7 @@
       "name": "Sun Token",
       "logo": "https://cryptologos-data.vercel.app/assets/sun-token.png",
       "contract": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -744,6 +806,7 @@
       "name": "Sun Tzu",
       "logo": "https://cryptologos-data.vercel.app/assets/sun-tzu-2.jpg",
       "contract": "TUPsKS6qYuLmY7q1Uuq5aCS4DwQcCCDmg3",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -753,6 +816,7 @@
       "name": "SunWukong",
       "logo": "https://cryptologos-data.vercel.app/assets/sunwukong.jpeg",
       "contract": "TP3prcvQknVthrVnn281cKST56eWiLgJJM",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -762,6 +826,7 @@
       "name": "SWAPZ.app",
       "logo": "https://cryptologos-data.vercel.app/assets/swapz-app.jpeg",
       "contract": "TKdpGm5wKPLz3stemW8gkGvAdhztJcDjcW",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -771,6 +836,7 @@
       "name": "szn",
       "logo": "https://cryptologos-data.vercel.app/assets/szn.webp",
       "contract": "TDxL4V5LE6TYSFXSCWJkkSsCYbgmrDnTer",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -780,6 +846,7 @@
       "name": "Tether",
       "logo": "https://cryptologos-data.vercel.app/assets/tether.png",
       "contract": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -789,6 +856,7 @@
       "name": "Topcat",
       "logo": "https://cryptologos-data.vercel.app/assets/topcat-2.jpg",
       "contract": "TD6xZDStjpd5FjgpNGihSYnm46nQUA6Dsj",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -798,6 +866,7 @@
       "name": "To The Sun",
       "logo": "https://cryptologos-data.vercel.app/assets/to-the-sun.png",
       "contract": "TMwk13CthNktLiNpo8WDRuUMpyrzZTVZYH",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -807,6 +876,7 @@
       "name": "Tourism Industry Metavers",
       "logo": "https://cryptologos-data.vercel.app/assets/tourism-industry-metavers.png",
       "contract": "TQH4JFjzGnWswNeaCxFJi3pSqmsvTXULY8",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -816,6 +886,7 @@
       "name": "Trepe",
       "logo": "https://cryptologos-data.vercel.app/assets/trepe.jpg",
       "contract": "THVR1Biz4ZYYxewha6Wmi47HeB5opj1dv2",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -825,6 +896,7 @@
       "name": "Tron Bull",
       "logo": "https://cryptologos-data.vercel.app/assets/tron-bull.png",
       "contract": "TAt4ufXFaHZAEV44ev7onThjTnF61SEaEM",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -834,6 +906,7 @@
       "name": "Tron Bull Coin",
       "logo": "https://cryptologos-data.vercel.app/assets/tron-bull-coin.png",
       "contract": "TPeoxx1VhUMnAUyjwWfximDYFDQaxNQQ45",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -843,6 +916,7 @@
       "name": "Tron Cat",
       "logo": "https://cryptologos-data.vercel.app/assets/tron-cat.jpg",
       "contract": "TVgHqeP41s3qMDH3oKBsScEUzvyXw6bKAm",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -852,6 +926,7 @@
       "name": "TRONCHES",
       "logo": "https://cryptologos-data.vercel.app/assets/tronches.jpg",
       "contract": "TVwzGbGPoQWXcN9CQ1q2REiMcMtV78MKPg",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -861,6 +936,7 @@
       "name": "TronDog",
       "logo": "https://cryptologos-data.vercel.app/assets/trondog.png",
       "contract": "TEKWczHwjSiS75N37YSz1fgraZLuarks86",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -870,6 +946,7 @@
       "name": "TRONKEY",
       "logo": "https://cryptologos-data.vercel.app/assets/tronkey.jpeg",
       "contract": "TRHsKfoPJxFHnJ4wJ8Zc9nmSNAyaNYqff7",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -879,6 +956,7 @@
       "name": "TRON MASCOT",
       "logo": "https://cryptologos-data.vercel.app/assets/tron-mascot.png",
       "contract": "TPP9Pq2LQwtrwfyUDLSyFsKJwJjFouf45B",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -888,6 +966,7 @@
       "name": "TrueUSD",
       "logo": "https://cryptologos-data.vercel.app/assets/true-usd.png",
       "contract": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -897,6 +976,7 @@
       "name": "TTcoin",
       "logo": "https://cryptologos-data.vercel.app/assets/ttcoin.png",
       "contract": "TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y",
+      "decimals": 4,
       "price": 0,
       "balance": 0
     },
@@ -906,6 +986,7 @@
       "name": "Twiskers",
       "logo": "https://cryptologos-data.vercel.app/assets/twiskers.png",
       "contract": "TTFreuJ4pYDaCeEMEtiR1GQDwPPrS4jKFk",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -915,6 +996,7 @@
       "name": "Uplift",
       "logo": "https://cryptologos-data.vercel.app/assets/uplift.png",
       "contract": "TGo8MJaSxvVVicZ1ixC7n3ibJMt9NJvxuU",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -924,6 +1006,7 @@
       "name": "UpStable",
       "logo": "https://cryptologos-data.vercel.app/assets/upstabletoken.png",
       "contract": "TYX2iy3i3793YgKU5vqKxDnLpiBMSa5EdV",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -933,6 +1016,7 @@
       "name": "USDC",
       "logo": "https://cryptologos-data.vercel.app/assets/usd-coin.png",
       "contract": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -942,6 +1026,7 @@
       "name": "USDD",
       "logo": "https://cryptologos-data.vercel.app/assets/usdd.jpg",
       "contract": "TXDk8mbtRbXeYuMNS83CfKPaYYT8XWv9Hz",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -951,6 +1036,7 @@
       "name": "uShark Token",
       "logo": "https://cryptologos-data.vercel.app/assets/ushark.png",
       "contract": "TE9f8MGouEdh2jPqDaUgUVaJYLKkV6vhv6",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -960,6 +1046,7 @@
       "name": "VIKITA",
       "logo": "https://cryptologos-data.vercel.app/assets/vikita.jpg",
       "contract": "TP7r1pDoS1snMjEJE1kE17GRt3Df4mYuZz",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -969,6 +1056,7 @@
       "name": "WETH",
       "logo": "https://cryptologos-data.vercel.app/assets/weth.png",
       "contract": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -978,6 +1066,7 @@
       "name": "WFDP",
       "logo": "https://cryptologos-data.vercel.app/assets/wfdp.png",
       "contract": "TQb8rm1BDjArsBh78yw8enstQ3E85XFc9u",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -987,6 +1076,7 @@
       "name": "WhiteBIT Coin",
       "logo": "https://cryptologos-data.vercel.app/assets/whitebit.png",
       "contract": "TFptbWaARrWTX5Yvy3gNG5Lm8BmhPx82Bt",
+      "decimals": 8,
       "price": 0,
       "balance": 0
     },
@@ -996,6 +1086,7 @@
       "name": "WINkLink",
       "logo": "https://cryptologos-data.vercel.app/assets/wink.png",
       "contract": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -1005,6 +1096,7 @@
       "name": "Wrapped BTT (Tron)",
       "logo": "https://cryptologos-data.vercel.app/assets/wrapped-btt-tron.png",
       "contract": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -1014,6 +1106,7 @@
       "name": "Wrapped Staked USDT",
       "logo": "https://cryptologos-data.vercel.app/assets/wrapped-staked-usdt.jpeg",
       "contract": "TGkxzkDKyMeq2T7edKnyjZoFypyzjkkssq",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -1023,6 +1116,7 @@
       "name": "Wrapped Tron",
       "logo": "https://cryptologos-data.vercel.app/assets/wrapped-tron.jpg",
       "contract": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+      "decimals": 6,
       "price": 0,
       "balance": 0
     },
@@ -1032,6 +1126,7 @@
       "name": "xiao lang gou",
       "logo": "https://cryptologos-data.vercel.app/assets/xiao-lang-gou.jpg",
       "contract": "TQzUXP5eXHwrRMou9KYQQq7wEmu8KQF7mX",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -1041,6 +1136,7 @@
       "name": "Yalla Sun",
       "logo": "https://cryptologos-data.vercel.app/assets/yalla-sun.jpg",
       "contract": "TBAbgFHHpuLERRcUFvjnojtBjkBr39NFB7",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -1050,6 +1146,7 @@
       "name": "Your Futures Exchange",
       "logo": "https://cryptologos-data.vercel.app/assets/yfx.png",
       "contract": "TAP7qf8Ao26ZAKYS5E6SGozUNoSLvBHsGa",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -1059,6 +1156,7 @@
       "name": "ZAPO AI",
       "logo": "https://cryptologos-data.vercel.app/assets/zapo.jpeg",
       "contract": "TPUZseUsV89tM157aLfkuKYEaRKzBirmRb",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     },
@@ -1068,6 +1166,7 @@
       "name": "Zedxion",
       "logo": "https://cryptologos-data.vercel.app/assets/zedxion.png",
       "contract": "TUP3g7kbaESRFRhULeA19USSrcVBEpWLVY",
+      "decimals": 18,
       "price": 0,
       "balance": 0
     }
